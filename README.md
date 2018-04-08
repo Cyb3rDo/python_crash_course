@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Source Code for Python Crash Course  on Youtube
 
 These are the companion files for working on the excercises in the [Python Crash Course](https://www.youtube.com/playlist?list=PLmcBskOCOOFW1_eXJ4LHf_f1TsBVPM1wf) tutorial on Youtube
@@ -16,3 +17,7 @@ We will look at:
 * Functions
 * Modules and packages
 
+=======
+# python_crash_course
+Source Code for Python Crash Course  on Youtube
+>>>>>>> def644e9536cf2a5ef3b7e807829edaa28aef9c8
